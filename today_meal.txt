@@ -1,0 +1,16 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": {
+        "caloriesGoal": 2500,
+        "caloriesLeft": 2500,
+        "caloriesBurned": 0,
+        "caloriesIntake": 0,
+        "carbsGoal": 60,
+        "carbsConsumed": 0,
+        "proteinGoal": 50,
+        "proteinConsumed": 0,
+        "fatGoal": 20,
+        "fatConsumed": 0
+    }
+}
