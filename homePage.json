@@ -1,0 +1,5 @@
+{
+    "status": 500,
+    "message": "Something Went Wrong",
+    "error": "Cannot read properties of undefined (reading 'meals')"
+}

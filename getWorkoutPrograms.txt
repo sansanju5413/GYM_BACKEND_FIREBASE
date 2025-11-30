@@ -1,0 +1,722 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": [{
+        "id": "66763d118de6c1695dbec1a0",
+        "name": "Workout - 0",
+        "description": "Workout - 0 description",
+        "type": "Equipment Diversity",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEFvhT6PV5u-yCaY5lJRtySenHFAJquCb7BHcmuMwW5hSVVoWYH0DU2eCXoKn6yMYqH0&usqp=CAU",
+        "fitness_level": "beginner",
+        "fitness_goal": "lose weight",
+        "place": ["gym"],
+        "min_per_day": 30,
+        "total_number_days": 4,
+        "template_weeks": [{
+            "week_number": 1,
+            "week_name": "Week 1",
+            "week_description": "Week 1 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763b9f8de6c1695dbeb0f7", "66763ba08de6c1695dbeb0fa"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb0f8", "66763ba08de6c1695dbeb0fb"]
+            }]
+        }, {
+            "week_number": 2,
+            "week_name": "Week 2",
+            "week_description": "Week 2 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb0f9", "66763ba08de6c1695dbeb101"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb0fc", "66763ba08de6c1695dbeb102"]
+            }]
+        }]
+    }, {
+        "id": "66763d118de6c1695dbec1a8",
+        "name": "Workout - 1",
+        "description": "Workout - 1 description",
+        "type": "Equipment Diversity",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEFvhT6PV5u-yCaY5lJRtySenHFAJquCb7BHcmuMwW5hSVVoWYH0DU2eCXoKn6yMYqH0&usqp=CAU",
+        "fitness_level": "intermediate",
+        "fitness_goal": "gain muscle",
+        "place": ["home"],
+        "min_per_day": 30,
+        "total_number_days": 4,
+        "template_weeks": [{
+            "week_number": 1,
+            "week_name": "Week 1",
+            "week_description": "Week 1 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb0fd", "66763ba08de6c1695dbeb103"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb0fe", "66763ba08de6c1695dbeb104"]
+            }]
+        }, {
+            "week_number": 2,
+            "week_name": "Week 2",
+            "week_description": "Week 2 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb0ff", "66763ba08de6c1695dbeb105"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb100", "66763ba08de6c1695dbeb106"]
+            }]
+        }]
+    }, {
+        "id": "66763d118de6c1695dbec1b0",
+        "name": "Workout - 6",
+        "description": "Workout - 6 description",
+        "type": "Equipment Diversity",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEFvhT6PV5u-yCaY5lJRtySenHFAJquCb7BHcmuMwW5hSVVoWYH0DU2eCXoKn6yMYqH0&usqp=CAU",
+        "fitness_level": "beginner",
+        "fitness_goal": "lose weight",
+        "place": ["gym"],
+        "min_per_day": 30,
+        "total_number_days": 4,
+        "template_weeks": [{
+            "week_number": 1,
+            "week_name": "Week 1",
+            "week_description": "Week 1 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1bf", "66763ba08de6c1695dbeb117"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1c0", "66763ba08de6c1695dbeb118"]
+            }]
+        }, {
+            "week_number": 2,
+            "week_name": "Week 2",
+            "week_description": "Week 2 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1c1", "66763ba08de6c1695dbeb119"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1c2", "66763ba08de6c1695dbeb11a"]
+            }]
+        }]
+    }, {
+        "id": "66763d118de6c1695dbec1b8",
+        "name": "Workout - 7",
+        "description": "Workout - 7 description",
+        "type": "Equipment Diversity",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEFvhT6PV5u-yCaY5lJRtySenHFAJquCb7BHcmuMwW5hSVVoWYH0DU2eCXoKn6yMYqH0&usqp=CAU",
+        "fitness_level": "intermediate",
+        "fitness_goal": "gain muscle",
+        "place": ["home"],
+        "min_per_day": 30,
+        "total_number_days": 4,
+        "template_weeks": [{
+            "week_number": 1,
+            "week_name": "Week 1",
+            "week_description": "Week 1 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1c3", "66763ba08de6c1695dbeb11b"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1c4", "66763ba08de6c1695dbeb11c"]
+            }]
+        }, {
+            "week_number": 2,
+            "week_name": "Week 2",
+            "week_description": "Week 2 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1c5", "66763ba08de6c1695dbeb11d"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1c6", "66763ba08de6c1695dbeb11e"]
+            }]
+        }]
+    }, {
+        "id": "66763d118de6c1695dbec1c0",
+        "name": "Workout - 5",
+        "description": "Workout - 5 description",
+        "type": "Equipment Diversity",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEFvhT6PV5u-yCaY5lJRtySenHFAJquCb7BHcmuMwW5hSVVoWYH0DU2eCXoKn6yMYqH0&usqp=CAU",
+        "fitness_level": "advanced",
+        "fitness_goal": "get fitter",
+        "place": ["home"],
+        "min_per_day": 30,
+        "total_number_days": 4,
+        "template_weeks": [{
+            "week_number": 1,
+            "week_name": "Week 1",
+            "week_description": "Week 1 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1bb", "66763ba08de6c1695dbeb113"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1bc", "66763ba08de6c1695dbeb114"]
+            }]
+        }, {
+            "week_number": 2,
+            "week_name": "Week 2",
+            "week_description": "Week 2 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1bd", "66763ba08de6c1695dbeb115"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1be", "66763ba08de6c1695dbeb116"]
+            }]
+        }]
+    }, {
+        "id": "66763d118de6c1695dbec1c8",
+        "name": "Workout - 8",
+        "description": "Workout - 8 description",
+        "type": "Equipment Diversity",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEFvhT6PV5u-yCaY5lJRtySenHFAJquCb7BHcmuMwW5hSVVoWYH0DU2eCXoKn6yMYqH0&usqp=CAU",
+        "fitness_level": "advanced",
+        "fitness_goal": "get fitter",
+        "place": ["gym"],
+        "min_per_day": 30,
+        "total_number_days": 4,
+        "template_weeks": [{
+            "week_number": 1,
+            "week_name": "Week 1",
+            "week_description": "Week 1 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1c7", "66763ba08de6c1695dbeb11f"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1c8", "66763ba08de6c1695dbeb120"]
+            }]
+        }, {
+            "week_number": 2,
+            "week_name": "Week 2",
+            "week_description": "Week 2 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1c9", "66763ba08de6c1695dbeb121"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1ca", "66763ba08de6c1695dbeb122"]
+            }]
+        }]
+    }, {
+        "id": "66763d118de6c1695dbec1d0",
+        "name": "Workout - 9",
+        "description": "Workout - 9 description",
+        "type": "Equipment Diversity",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEFvhT6PV5u-yCaY5lJRtySenHFAJquCb7BHcmuMwW5hSVVoWYH0DU2eCXoKn6yMYqH0&usqp=CAU",
+        "fitness_level": "beginner",
+        "fitness_goal": "lose weight",
+        "place": ["home"],
+        "min_per_day": 30,
+        "total_number_days": 4,
+        "template_weeks": [{
+            "week_number": 1,
+            "week_name": "Week 1",
+            "week_description": "Week 1 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1cb", "66763ba08de6c1695dbeb123"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1cc", "66763ba08de6c1695dbeb124"]
+            }]
+        }, {
+            "week_number": 2,
+            "week_name": "Week 2",
+            "week_description": "Week 2 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1cd", "66763ba08de6c1695dbeb125"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1ce", "66763ba08de6c1695dbeb126"]
+            }]
+        }]
+    }, {
+        "id": "66763d118de6c1695dbec1d8",
+        "name": "Workout - 3",
+        "description": "Workout - 3 description",
+        "type": "Equipment Diversity",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEFvhT6PV5u-yCaY5lJRtySenHFAJquCb7BHcmuMwW5hSVVoWYH0DU2eCXoKn6yMYqH0&usqp=CAU",
+        "fitness_level": "beginner",
+        "fitness_goal": "lose weight",
+        "place": ["home"],
+        "min_per_day": 30,
+        "total_number_days": 4,
+        "template_weeks": [{
+            "week_number": 1,
+            "week_name": "Week 1",
+            "week_description": "Week 1 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1b3", "66763ba08de6c1695dbeb10b"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1b4", "66763ba08de6c1695dbeb10c"]
+            }]
+        }, {
+            "week_number": 2,
+            "week_name": "Week 2",
+            "week_description": "Week 2 description",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1b5", "66763ba08de6c1695dbeb10d"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 2,
+                "day_type": "full_body",
+                "exercises": ["66763ba08de6c1695dbeb1b6", "66763ba08de6c1695dbeb10e"]
+            }]
+        }]
+    }, {
+        "id": "667693d7c3fdb702f18bbae9",
+        "name": "AI Generated Workout (lose weight - beginner) - June 22, 2024 12:05:27.365",
+        "description": "This AI-generated workout plan, created on June 22, 2024 at 12:05:27.365, is tailored for your beginner fitness level and lose weight goal. It is designed to be performed at home using your preferred equipment.",
+        "type": "Equipment Diversity",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEFvhT6PV5u-yCaY5lJRtySenHFAJquCb7BHcmuMwW5hSVVoWYH0DU2eCXoKn6yMYqH0&usqp=CAU",
+        "created_by": "667693d1c3fdb702f18bbae0",
+        "fitness_level": "beginner",
+        "fitness_goal": "lose weight",
+        "place": ["gym", "home"],
+        "min_per_day": 30,
+        "total_number_days": 177,
+        "template_weeks": [{
+            "week_number": 1,
+            "week_name": "Week 1",
+            "week_description": "Week 1",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec07a", "66763ba08de6c1695dbec11a", "66763ba08de6c1695dbec12a", "66763ba08de6c1695dbebfe3", "66763ba08de6c1695dbec116", "66763ba08de6c1695dbec112"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec118", "66763ba08de6c1695dbebfae", "66763ba08de6c1695dbebfa9", "66763ba08de6c1695dbec068", "66763ba08de6c1695dbec131", "66763ba08de6c1695dbebf69"]
+            }, {
+                "day_number": 3,
+                "total_number_exercises": 5,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfe4", "66763ba08de6c1695dbebf7a", "66763ba08de6c1695dbec060", "66763ba08de6c1695dbebfe1", "66763ba08de6c1695dbec178"]
+            }, {
+                "day_number": 4,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfb4", "66763ba08de6c1695dbebfef", "66763ba08de6c1695dbec087", "66763ba08de6c1695dbebf78", "66763ba08de6c1695dbec0ba", "66763ba08de6c1695dbec0b5"]
+            }, {
+                "day_number": 5,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec0c9", "66763ba08de6c1695dbebfe1", "66763ba08de6c1695dbebfe7", "66763ba08de6c1695dbec04c", "66763ba08de6c1695dbec0ae", "66763ba08de6c1695dbec03a"]
+            }, {
+                "day_number": 6,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfae", "66763ba08de6c1695dbec081", "66763ba08de6c1695dbebf7c", "66763ba08de6c1695dbec065", "66763ba08de6c1695dbebd53", "66763ba08de6c1695dbec13f"]
+            }, {
+                "day_number": 7,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec087", "66763ba08de6c1695dbec110", "66763ba08de6c1695dbebdf7", "66763ba08de6c1695dbebf86", "66763ba08de6c1695dbebf82", "66763ba08de6c1695dbebfe4"]
+            }]
+        }, {
+            "week_number": 2,
+            "week_name": "Week 2",
+            "week_description": "Week 2",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebf70", "66763ba08de6c1695dbec068", "66763ba08de6c1695dbec07c", "66763ba08de6c1695dbec04c", "66763ba08de6c1695dbebf92", "66763ba08de6c1695dbec133"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfef", "66763ba08de6c1695dbec037", "66763ba08de6c1695dbebfb3", "66763ba08de6c1695dbec06f", "66763ba08de6c1695dbec074", "66763ba08de6c1695dbebf78"]
+            }, {
+                "day_number": 3,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec087", "66763ba08de6c1695dbec176", "66763ba08de6c1695dbebd4e", "66763ba08de6c1695dbec119", "66763ba08de6c1695dbebd5a", "66763ba08de6c1695dbebfe8"]
+            }, {
+                "day_number": 4,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec132", "66763ba08de6c1695dbebfa0", "66763ba08de6c1695dbec087", "66763ba08de6c1695dbec083", "66763ba08de6c1695dbebf71", "66763ba08de6c1695dbebc53"]
+            }, {
+                "day_number": 5,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec03a", "66763ba08de6c1695dbec0b3", "66763ba08de6c1695dbebf9e", "66763ba08de6c1695dbebd52", "66763ba08de6c1695dbebf72", "66763ba08de6c1695dbec119"]
+            }, {
+                "day_number": 6,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec11a", "66763ba08de6c1695dbebfae", "66763ba08de6c1695dbec176", "66763ba08de6c1695dbec063", "66763ba08de6c1695dbebfe9", "66763ba08de6c1695dbebfed"]
+            }, {
+                "day_number": 7,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec087", "66763ba08de6c1695dbebdff", "66763ba08de6c1695dbec122", "66763ba08de6c1695dbec065", "66763ba08de6c1695dbec115", "66763ba08de6c1695dbebfe8"]
+            }]
+        }, {
+            "week_number": 3,
+            "week_name": "Week 3",
+            "week_description": "Week 3",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebc7a", "66763ba08de6c1695dbebfb3", "66763ba08de6c1695dbebfe5", "66763ba08de6c1695dbec149", "66763ba08de6c1695dbebf73", "66763ba08de6c1695dbebd3d"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec081", "66763ba08de6c1695dbec0c2", "66763ba08de6c1695dbec0ba", "66763ba08de6c1695dbebfe0", "66763ba08de6c1695dbebd51", "66763ba08de6c1695dbebf98"]
+            }, {
+                "day_number": 3,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfe8", "66763ba08de6c1695dbebc5d", "66763ba08de6c1695dbec122", "66763ba08de6c1695dbec142", "66763ba08de6c1695dbebf93", "66763ba08de6c1695dbec087"]
+            }, {
+                "day_number": 4,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec112", "66763ba08de6c1695dbec0af", "66763ba08de6c1695dbebfe8", "66763ba08de6c1695dbebf77", "66763ba08de6c1695dbec063", "66763ba08de6c1695dbec129"]
+            }, {
+                "day_number": 5,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec113", "66763ba08de6c1695dbec133", "66763ba08de6c1695dbec07e", "66763ba08de6c1695dbec146", "66763ba08de6c1695dbebf6e", "66763ba08de6c1695dbec03e"]
+            }, {
+                "day_number": 6,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec0ba", "66763ba08de6c1695dbec11a", "66763ba08de6c1695dbebfe0", "66763ba08de6c1695dbec0ca", "66763ba08de6c1695dbec0bb", "66763ba08de6c1695dbebc57"]
+            }, {
+                "day_number": 7,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec087", "66763ba08de6c1695dbec118", "66763ba08de6c1695dbebe1b", "66763ba08de6c1695dbec063", "66763ba08de6c1695dbeb1b6", "66763ba08de6c1695dbebfe8"]
+            }]
+        }, {
+            "week_number": 4,
+            "week_name": "Week 4",
+            "week_description": "Week 4",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebf70", "66763ba08de6c1695dbec099", "66763ba08de6c1695dbec0c7", "66763ba08de6c1695dbec117", "66763ba08de6c1695dbebfde", "66763ba08de6c1695dbec129"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebdff", "66763ba08de6c1695dbebf70", "66763ba08de6c1695dbec06a", "66763ba08de6c1695dbec04e", "66763ba08de6c1695dbebf7e", "66763ba08de6c1695dbebf98"]
+            }, {
+                "day_number": 3,
+                "total_number_exercises": 5,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfe4", "66763ba08de6c1695dbebd44", "66763ba08de6c1695dbec11f", "66763ba08de6c1695dbec037", "66763ba08de6c1695dbec0a5"]
+            }, {
+                "day_number": 4,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec089", "66763ba08de6c1695dbec11a", "66763ba08de6c1695dbec087", "66763ba08de6c1695dbebf77", "66763ba08de6c1695dbec118", "66763ba08de6c1695dbec0af"]
+            }, {
+                "day_number": 5,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebf7a", "66763ba08de6c1695dbebfb3", "66763ba08de6c1695dbec072", "66763ba08de6c1695dbebf3c", "66763ba08de6c1695dbebf9a", "66763ba08de6c1695dbec081"]
+            }, {
+                "day_number": 6,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec048", "66763ba08de6c1695dbec142", "66763ba08de6c1695dbebfef", "66763ba08de6c1695dbec0af", "66763ba08de6c1695dbebd54", "66763ba08de6c1695dbebfed"]
+            }, {
+                "day_number": 7,
+                "total_number_exercises": 5,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfe8", "66763ba08de6c1695dbebf71", "66763ba08de6c1695dbebdf6", "66763ba08de6c1695dbebfb3", "66763ba08de6c1695dbec0c6"]
+            }]
+        }, {
+            "week_number": 5,
+            "week_name": "Week 5",
+            "week_description": "Week 5",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec085", "66763ba08de6c1695dbec081", "66763ba08de6c1695dbec07f", "66763ba08de6c1695dbec070", "66763ba08de6c1695dbebc5b", "66763ba08de6c1695dbec099"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec065", "66763ba08de6c1695dbec0b5", "66763ba08de6c1695dbec176", "66763ba08de6c1695dbec06a", "66763ba08de6c1695dbec050", "66763ba08de6c1695dbec12c"]
+            }]
+        }]
+    }, {
+        "id": "667695e5913a56d76e2ee643",
+        "name": "AI Generated Workout (lose weight - beginner) - June 22, 2024 12:14:13.644",
+        "description": "This AI-generated workout plan, created on June 22, 2024 at 12:14:13.644, is tailored for your beginner fitness level and lose weight goal. It is designed to be performed at home using your preferred equipment.",
+        "type": "Equipment Diversity",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEFvhT6PV5u-yCaY5lJRtySenHFAJquCb7BHcmuMwW5hSVVoWYH0DU2eCXoKn6yMYqH0&usqp=CAU",
+        "created_by": "667695e4913a56d76e2ee640",
+        "fitness_level": "beginner",
+        "fitness_goal": "lose weight",
+        "place": ["gym", "home"],
+        "min_per_day": 30,
+        "total_number_days": 174,
+        "template_weeks": [{
+            "week_number": 1,
+            "week_name": "Week 1",
+            "week_description": "Week 1",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec0bf", "66763ba08de6c1695dbec132", "66763ba08de6c1695dbebe09", "66763ba08de6c1695dbebfe9", "66763ba08de6c1695dbec064", "66763ba08de6c1695dbec142"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec110", "66763ba08de6c1695dbebf6f", "66763ba08de6c1695dbec119", "66763ba08de6c1695dbec097", "66763ba08de6c1695dbebe11", "66763ba08de6c1695dbebe17"]
+            }, {
+                "day_number": 3,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec087", "66763ba08de6c1695dbec110", "66763ba08de6c1695dbec05b", "66763ba08de6c1695dbec129", "66763ba08de6c1695dbec178", "66763ba08de6c1695dbec11c"]
+            }, {
+                "day_number": 4,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfae", "66763ba08de6c1695dbec085", "66763ba08de6c1695dbebfe4", "66763ba08de6c1695dbec0c6", "66763ba08de6c1695dbebe12", "66763ba08de6c1695dbec133"]
+            }, {
+                "day_number": 5,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec097", "66763ba08de6c1695dbec06a", "66763ba08de6c1695dbebfad", "66763ba08de6c1695dbebf7e", "66763ba08de6c1695dbec0bc", "66763ba08de6c1695dbec0ca"]
+            }, {
+                "day_number": 6,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfb4", "66763ba08de6c1695dbec0c9", "66763ba08de6c1695dbebd3d", "66763ba08de6c1695dbec176", "66763ba08de6c1695dbec121", "66763ba08de6c1695dbec064"]
+            }, {
+                "day_number": 7,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfe4", "66763ba08de6c1695dbebf81", "66763ba08de6c1695dbec11f", "66763ba08de6c1695dbebfe1", "66763ba08de6c1695dbebf92", "66763ba08de6c1695dbec11c"]
+            }]
+        }, {
+            "week_number": 2,
+            "week_name": "Week 2",
+            "week_description": "Week 2",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec065", "66763ba08de6c1695dbebfe0", "66763ba08de6c1695dbebe00", "66763ba08de6c1695dbebe05", "66763ba08de6c1695dbebf90", "66763ba08de6c1695dbebf70"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebf71", "66763ba08de6c1695dbebd48", "66763ba08de6c1695dbec065", "66763ba08de6c1695dbec0d6", "66763ba08de6c1695dbec039", "66763ba08de6c1695dbebf73"]
+            }, {
+                "day_number": 3,
+                "total_number_exercises": 5,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfe8", "66763ba08de6c1695dbec089", "66763ba08de6c1695dbec122", "66763ba08de6c1695dbec14b", "66763ba08de6c1695dbebc59"]
+            }, {
+                "day_number": 4,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec097", "66763ba08de6c1695dbebd47", "66763ba08de6c1695dbec11c", "66763ba08de6c1695dbec06c", "66763ba08de6c1695dbec11d", "66763ba08de6c1695dbec124"]
+            }, {
+                "day_number": 5,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec176", "66763ba08de6c1695dbec119", "66763ba08de6c1695dbebfad", "66763ba08de6c1695dbebfe9", "66763ba08de6c1695dbebf87", "66763ba08de6c1695dbec132"]
+            }, {
+                "day_number": 6,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec0c2", "66763ba08de6c1695dbec07a", "66763ba08de6c1695dbec04e", "66763ba08de6c1695dbec0ce", "66763ba08de6c1695dbebd4f", "66763ba08de6c1695dbec06d"]
+            }, {
+                "day_number": 7,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfe8", "66763ba08de6c1695dbec0b8", "66763ba08de6c1695dbec11f", "66763ba08de6c1695dbec06f", "66763ba08de6c1695dbec115", "66763ba08de6c1695dbec11c"]
+            }]
+        }, {
+            "week_number": 3,
+            "week_name": "Week 3",
+            "week_description": "Week 3",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec037", "66763ba08de6c1695dbebf86", "66763ba08de6c1695dbebf96", "66763ba08de6c1695dbec10e", "66763ba08de6c1695dbec128", "66763ba08de6c1695dbebdff"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebd3d", "66763ba08de6c1695dbec142", "66763ba08de6c1695dbebf81", "66763ba08de6c1695dbec0ce", "66763ba08de6c1695dbebe11", "66763ba08de6c1695dbebf77"]
+            }, {
+                "day_number": 3,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec11c", "66763ba08de6c1695dbec119", "66763ba08de6c1695dbec05b", "66763ba08de6c1695dbebf7d", "66763ba08de6c1695dbebf98", "66763ba08de6c1695dbebfe8"]
+            }, {
+                "day_number": 4,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec110", "66763ba08de6c1695dbebf71", "66763ba08de6c1695dbebfe4", "66763ba08de6c1695dbec092", "66763ba08de6c1695dbec118", "66763ba08de6c1695dbec0d6"]
+            }, {
+                "day_number": 5,
+                "total_number_exercises": 5,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebd5c", "66763ba08de6c1695dbec097", "66763ba08de6c1695dbebf79", "66763ba08de6c1695dbec123", "66763ba08de6c1695dbebfeb"]
+            }, {
+                "day_number": 6,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfb4", "66763ba08de6c1695dbebfa9", "66763ba08de6c1695dbec0b8", "66763ba08de6c1695dbec0b3", "66763ba08de6c1695dbebfa4", "66763ba08de6c1695dbebf8d"]
+            }, {
+                "day_number": 7,
+                "total_number_exercises": 5,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfe8", "66763ba08de6c1695dbec063", "66763ba08de6c1695dbec11f", "66763ba08de6c1695dbec135", "66763ba08de6c1695dbec0bc"]
+            }]
+        }, {
+            "week_number": 4,
+            "week_name": "Week 4",
+            "week_description": "Week 4",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec0b5", "66763ba08de6c1695dbec0ce", "66763ba08de6c1695dbec16f", "66763ba08de6c1695dbebf3c", "66763ba08de6c1695dbebdf9", "66763ba08de6c1695dbebc5d"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec0b3", "66763ba08de6c1695dbec089", "66763ba08de6c1695dbebc53", "66763ba08de6c1695dbebe12", "66763ba08de6c1695dbec172", "66763ba08de6c1695dbebc52"]
+            }, {
+                "day_number": 3,
+                "total_number_exercises": 5,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec087", "66763ba08de6c1695dbec110", "66763ba08de6c1695dbebdf7", "66763ba08de6c1695dbec0c9", "66763ba08de6c1695dbec0be"]
+            }, {
+                "day_number": 4,
+                "total_number_exercises": 5,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec113", "66763ba08de6c1695dbec097", "66763ba08de6c1695dbebfe4", "66763ba08de6c1695dbec06b", "66763ba08de6c1695dbec0ad"]
+            }, {
+                "day_number": 5,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebf70", "66763ba08de6c1695dbec0bd", "66763ba08de6c1695dbec0c7", "66763ba08de6c1695dbec0ab", "66763ba08de6c1695dbec178", "66763ba08de6c1695dbec14b"]
+            }, {
+                "day_number": 6,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec081", "66763ba08de6c1695dbec132", "66763ba08de6c1695dbebf86", "66763ba08de6c1695dbec065", "66763ba08de6c1695dbebd51", "66763ba08de6c1695dbebfaf"]
+            }, {
+                "day_number": 7,
+                "total_number_exercises": 5,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebfe4", "66763ba08de6c1695dbebf70", "66763ba08de6c1695dbec05b", "66763ba08de6c1695dbebdff", "66763ba08de6c1695dbebf89"]
+            }]
+        }, {
+            "week_number": 5,
+            "week_name": "Week 5",
+            "week_description": "Week 5",
+            "days": [{
+                "day_number": 1,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbec110", "66763ba08de6c1695dbebd47", "66763ba08de6c1695dbebf79", "66763ba08de6c1695dbebfa4", "66763ba08de6c1695dbec13f", "66763ba08de6c1695dbec03e"]
+            }, {
+                "day_number": 2,
+                "total_number_exercises": 6,
+                "day_type": "full body",
+                "exercises": ["66763ba08de6c1695dbebf7c", "66763ba08de6c1695dbebd44", "66763ba08de6c1695dbec119", "66763ba08de6c1695dbebfa9", "66763ba08de6c1695dbec05c", "66763ba08de6c1695dbec116"]
+            }]
+        }]
+    }],
+    "meta": {
+        "total": 164,
+        "page": 0,
+        "perPage": 10
+    }
+}

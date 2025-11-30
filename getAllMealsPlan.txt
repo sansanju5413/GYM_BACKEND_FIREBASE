@@ -1,0 +1,150 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": [{
+        "id": "66763e148de6c1695dbede52",
+        "image": "https://t4.ftcdn.net/jpg/01/81/12/37/360_F_181123726_invADRiRZle7YWLYfkEHz0mUfWH60kVZ.jpg",
+        "description": "This is a description of the meal plan.",
+        "duration": 7,
+        "level": "advanced",
+        "your_journey": "This is your journey description.",
+        "key_features": [{
+            "title": "Feature 1",
+            "description": "Description for feature 1"
+        }, {
+            "title": "Feature 2",
+            "description": "Description for feature 2"
+        }]
+    }, {
+        "id": "66763e148de6c1695dbede5d",
+        "image": "https://t4.ftcdn.net/jpg/01/81/12/37/360_F_181123726_invADRiRZle7YWLYfkEHz0mUfWH60kVZ.jpg",
+        "description": "This is a description of the meal plan.",
+        "duration": 7,
+        "level": "intermediate",
+        "your_journey": "This is your journey description.",
+        "key_features": [{
+            "title": "Feature 1",
+            "description": "Description for feature 1"
+        }, {
+            "title": "Feature 2",
+            "description": "Description for feature 2"
+        }]
+    }, {
+        "id": "66763e158de6c1695dbede68",
+        "image": "https://t4.ftcdn.net/jpg/01/81/12/37/360_F_181123726_invADRiRZle7YWLYfkEHz0mUfWH60kVZ.jpg",
+        "description": "This is a description of the meal plan.",
+        "duration": 7,
+        "level": "beginner",
+        "your_journey": "This is your journey description.",
+        "key_features": [{
+            "title": "Feature 1",
+            "description": "Description for feature 1"
+        }, {
+            "title": "Feature 2",
+            "description": "Description for feature 2"
+        }]
+    }, {
+        "id": "66763e168de6c1695dbede73",
+        "image": "https://t4.ftcdn.net/jpg/01/81/12/37/360_F_181123726_invADRiRZle7YWLYfkEHz0mUfWH60kVZ.jpg",
+        "description": "This is a description of the meal plan.",
+        "duration": 7,
+        "level": "advanced",
+        "your_journey": "This is your journey description.",
+        "key_features": [{
+            "title": "Feature 1",
+            "description": "Description for feature 1"
+        }, {
+            "title": "Feature 2",
+            "description": "Description for feature 2"
+        }]
+    }, {
+        "id": "66763e168de6c1695dbede7e",
+        "image": "https://t4.ftcdn.net/jpg/01/81/12/37/360_F_181123726_invADRiRZle7YWLYfkEHz0mUfWH60kVZ.jpg",
+        "description": "This is a description of the meal plan.",
+        "duration": 7,
+        "level": "beginner",
+        "your_journey": "This is your journey description.",
+        "key_features": [{
+            "title": "Feature 1",
+            "description": "Description for feature 1"
+        }, {
+            "title": "Feature 2",
+            "description": "Description for feature 2"
+        }]
+    }, {
+        "id": "66763e168de6c1695dbede89",
+        "image": "https://t4.ftcdn.net/jpg/01/81/12/37/360_F_181123726_invADRiRZle7YWLYfkEHz0mUfWH60kVZ.jpg",
+        "description": "This is a description of the meal plan.",
+        "duration": 7,
+        "level": "beginner",
+        "your_journey": "This is your journey description.",
+        "key_features": [{
+            "title": "Feature 1",
+            "description": "Description for feature 1"
+        }, {
+            "title": "Feature 2",
+            "description": "Description for feature 2"
+        }]
+    }, {
+        "id": "66763e178de6c1695dbede94",
+        "image": "https://t4.ftcdn.net/jpg/01/81/12/37/360_F_181123726_invADRiRZle7YWLYfkEHz0mUfWH60kVZ.jpg",
+        "description": "This is a description of the meal plan.",
+        "duration": 7,
+        "level": "intermediate",
+        "your_journey": "This is your journey description.",
+        "key_features": [{
+            "title": "Feature 1",
+            "description": "Description for feature 1"
+        }, {
+            "title": "Feature 2",
+            "description": "Description for feature 2"
+        }]
+    }, {
+        "id": "66763e178de6c1695dbede9f",
+        "image": "https://t4.ftcdn.net/jpg/01/81/12/37/360_F_181123726_invADRiRZle7YWLYfkEHz0mUfWH60kVZ.jpg",
+        "description": "This is a description of the meal plan.",
+        "duration": 7,
+        "level": "advanced",
+        "your_journey": "This is your journey description.",
+        "key_features": [{
+            "title": "Feature 1",
+            "description": "Description for feature 1"
+        }, {
+            "title": "Feature 2",
+            "description": "Description for feature 2"
+        }]
+    }, {
+        "id": "66763e188de6c1695dbedeaa",
+        "image": "https://t4.ftcdn.net/jpg/01/81/12/37/360_F_181123726_invADRiRZle7YWLYfkEHz0mUfWH60kVZ.jpg",
+        "description": "This is a description of the meal plan.",
+        "duration": 7,
+        "level": "intermediate",
+        "your_journey": "This is your journey description.",
+        "key_features": [{
+            "title": "Feature 1",
+            "description": "Description for feature 1"
+        }, {
+            "title": "Feature 2",
+            "description": "Description for feature 2"
+        }]
+    }, {
+        "id": "66763e188de6c1695dbedeb5",
+        "image": "https://t4.ftcdn.net/jpg/01/81/12/37/360_F_181123726_invADRiRZle7YWLYfkEHz0mUfWH60kVZ.jpg",
+        "description": "This is a description of the meal plan.",
+        "duration": 7,
+        "level": "beginner",
+        "your_journey": "This is your journey description.",
+        "key_features": [{
+            "title": "Feature 1",
+            "description": "Description for feature 1"
+        }, {
+            "title": "Feature 2",
+            "description": "Description for feature 2"
+        }]
+    }],
+    "meta": {
+        "total": 171,
+        "page": 0,
+        "perPage": 10
+    }
+}

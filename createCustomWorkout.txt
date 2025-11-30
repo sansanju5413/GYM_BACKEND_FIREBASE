@@ -1,0 +1,556 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": [{
+        "id": "6677280aa8a1fd82be732956",
+        "name": "Plan",
+        "user": "667727c8a8a1fd82be732785",
+        "creationDate": "2024-06-22T19:09:21.095Z",
+        "exercises": [{
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/4/9/2/3/4923.gif"
+            },
+            "_id": "66763ba08de6c1695dbeb0f9",
+            "name": "FYR Banded Plank Jack",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform plank position with resistance band around ankles, jump feet out and in while maintaining core engaged for 5 sets.",
+            "benefits": "Benefits: Increases core strength, improves stability, and tones waist muscles for a sculpted midsection.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/4/9/2/3/4923.gif",
+            "isDeleted": false,
+            "__v": 0
+        }, {
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/5/5/1/3/5513.gif"
+            },
+            "_id": "66763ba08de6c1695dbeb0f8",
+            "name": "FYR2 Banded Frog Pump",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform 3 sets of FYR2 Banded Frog Pumps with a resistance band to target your abs and waist for muscle gain.",
+            "benefits": "- Increases core strength and stability while targeting the waist for muscle growth.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/5/5/1/3/5513.gif",
+            "isDeleted": false,
+            "__v": 0
+        }, {
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/8/7/5/8/8758.gif"
+            },
+            "_id": "66763b9f8de6c1695dbeb0f7",
+            "name": "Banded crunch",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform banded crunches with resistance band wrapped around feet, lying on back with knees bent, crunching up towards ceiling for 4 sets.",
+            "benefits": "- Strengthen and tone the abdominal muscles by adding resistance to traditional crunches.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/8/7/5/8/8758.gif",
+            "isDeleted": false,
+            "__v": 0
+        }]
+    }, {
+        "id": "6678797ca8a1fd82be73e65e",
+        "name": "sosos",
+        "user": "667727c8a8a1fd82be732785",
+        "creationDate": "2024-06-22T19:09:21.095Z",
+        "exercises": [{
+            "expectedDurationRange": {
+                "min": 12,
+                "max": 33
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/1/1/7/6/4/11764.gif"
+            },
+            "_id": "66763ba08de6c1695dbeb0fa",
+            "name": "Barbell roll-out",
+            "category": "waist",
+            "duration": 0,
+            "exerciseType": "weight",
+            "reps": 19,
+            "sets": 3,
+            "instructions": "Perform barbell roll-outs on a mat with hands on the barbell, slowly extend body forward while keeping core engaged, then return to starting position for 3 sets.",
+            "benefits": "Benefits: Strengthens core muscles, improves stability and balance, enhances overall abdominal definition.",
+            "equipments": ["66763b398de6c1695dbe7f3a"],
+            "coverImage": "https://gymvisual.com/img/p/1/1/7/6/4/11764.gif",
+            "isDeleted": false,
+            "__v": 0
+        }, {
+            "expectedDurationRange": {
+                "min": 19,
+                "max": 39
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/4/9/1/3/4913.gif"
+            },
+            "_id": "66763ba08de6c1695dbeb0fb",
+            "name": "Barbell Ab Rollout - On Knees",
+            "category": "waist",
+            "duration": 0,
+            "exerciseType": "weight",
+            "reps": 16,
+            "sets": 4,
+            "instructions": "Kneel on floor, grasp barbell with hands shoulder-width apart, roll barbell forward while keeping back straight, then return to starting position.",
+            "benefits": "- Strengthens and tones the abdominal muscles, helping to improve core stability and posture.",
+            "equipments": ["66763b398de6c1695dbe7f3a"],
+            "coverImage": "https://gymvisual.com/img/p/4/9/1/3/4913.gif",
+            "isDeleted": false,
+            "__v": 0
+        }]
+    }, {
+        "id": "6678a353a8a1fd82be749c87",
+        "name": "Test ",
+        "user": "667727c8a8a1fd82be732785",
+        "creationDate": "2024-06-22T19:09:21.095Z",
+        "exercises": [{
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/5/5/1/3/5513.gif"
+            },
+            "_id": "66763ba08de6c1695dbeb0f8",
+            "name": "FYR2 Banded Frog Pump",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform 3 sets of FYR2 Banded Frog Pumps with a resistance band to target your abs and waist for muscle gain.",
+            "benefits": "- Increases core strength and stability while targeting the waist for muscle growth.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/5/5/1/3/5513.gif",
+            "isDeleted": false,
+            "__v": 0
+        }, {
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/8/7/5/8/8758.gif"
+            },
+            "_id": "66763b9f8de6c1695dbeb0f7",
+            "name": "Banded crunch",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform banded crunches with resistance band wrapped around feet, lying on back with knees bent, crunching up towards ceiling for 4 sets.",
+            "benefits": "- Strengthen and tone the abdominal muscles by adding resistance to traditional crunches.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/8/7/5/8/8758.gif",
+            "isDeleted": false,
+            "__v": 0
+        }]
+    }, {
+        "id": "6678a38ca8a1fd82be74a0f7",
+        "name": "br",
+        "user": "667727c8a8a1fd82be732785",
+        "creationDate": "2024-06-22T19:09:21.095Z",
+        "exercises": [{
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/8/9/2/8/8928.gif"
+            },
+            "_id": "66763ba08de6c1695dbeb0fc",
+            "name": "Band low-to-high twist",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform 4 sets of band low-to-high twists to target your abs and gain muscle, using a band for resistance, suitable for intermediate level at both the gym and home.",
+            "benefits": "- Strengthens and tones the abdominal muscles, leading to a more defined waistline and improved core stability.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/8/9/2/8/8928.gif",
+            "isDeleted": false,
+            "__v": 0
+        }, {
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/8/7/5/8/8758.gif"
+            },
+            "_id": "66763ba08de6c1695dbeb0fd",
+            "name": "Banded crunch isometric hold",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform banded crunches while holding the contraction at the top for the duration of each set.",
+            "benefits": "- Increases core strength and stability by targeting the abs and waist muscles with isometric holds.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/8/7/5/8/8758.gif",
+            "isDeleted": false,
+            "__v": 0
+        }]
+    }, {
+        "id": "6678ad7a32f1b66e7bbb16dc",
+        "name": "hh",
+        "user": "667727c8a8a1fd82be732785",
+        "creationDate": "2024-06-23T22:55:01.734Z",
+        "exercises": [{
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/8/7/5/8/8758.gif"
+            },
+            "_id": "66763b9f8de6c1695dbeb0f7",
+            "name": "Banded crunch",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform banded crunches with resistance band wrapped around feet, lying on back with knees bent, crunching up towards ceiling for 4 sets.",
+            "benefits": "- Strengthen and tone the abdominal muscles by adding resistance to traditional crunches.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/8/7/5/8/8758.gif",
+            "isDeleted": false,
+            "__v": 0
+        }]
+    }, {
+        "id": "6678add432f1b66e7bbb1735",
+        "name": "ss",
+        "user": "667727c8a8a1fd82be732785",
+        "creationDate": "2024-06-23T22:55:01.734Z",
+        "exercises": [{
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/8/7/5/8/8758.gif"
+            },
+            "_id": "66763b9f8de6c1695dbeb0f7",
+            "name": "Banded crunch",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform banded crunches with resistance band wrapped around feet, lying on back with knees bent, crunching up towards ceiling for 4 sets.",
+            "benefits": "- Strengthen and tone the abdominal muscles by adding resistance to traditional crunches.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/8/7/5/8/8758.gif",
+            "isDeleted": false,
+            "__v": 0
+        }, {
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/5/5/1/3/5513.gif"
+            },
+            "_id": "66763ba08de6c1695dbeb0f8",
+            "name": "FYR2 Banded Frog Pump",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform 3 sets of FYR2 Banded Frog Pumps with a resistance band to target your abs and waist for muscle gain.",
+            "benefits": "- Increases core strength and stability while targeting the waist for muscle growth.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/5/5/1/3/5513.gif",
+            "isDeleted": false,
+            "__v": 0
+        }]
+    }, {
+        "id": "667dda2132f1b66e7bbc346f",
+        "name": "New Template teat",
+        "user": "667727c8a8a1fd82be732785",
+        "creationDate": "2024-06-23T22:55:01.734Z",
+        "exercises": [{
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/4/9/2/3/4923.gif"
+            },
+            "_id": "66763ba08de6c1695dbeb0f9",
+            "name": "FYR Banded Plank Jack",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform plank position with resistance band around ankles, jump feet out and in while maintaining core engaged for 5 sets.",
+            "benefits": "Benefits: Increases core strength, improves stability, and tones waist muscles for a sculpted midsection.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/4/9/2/3/4923.gif",
+            "isDeleted": false,
+            "__v": 0
+        }, {
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/8/7/5/8/8758.gif"
+            },
+            "_id": "66763b9f8de6c1695dbeb0f7",
+            "name": "Banded crunch",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform banded crunches with resistance band wrapped around feet, lying on back with knees bent, crunching up towards ceiling for 4 sets.",
+            "benefits": "- Strengthen and tone the abdominal muscles by adding resistance to traditional crunches.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/8/7/5/8/8758.gif",
+            "isDeleted": false,
+            "__v": 0
+        }]
+    }, {
+        "id": "6915be6f0b8e6a445f093fb0",
+        "name": "raj",
+        "user": "667727c8a8a1fd82be732785",
+        "creationDate": "2025-11-11T04:12:35.495Z",
+        "exercises": [{
+            "expectedDurationRange": {
+                "min": 13,
+                "max": 47
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/5/7/8/2/5782.gif"
+            },
+            "_id": "66763ba08de6c1695dbeb10d",
+            "name": "Kettlebell toe-touch",
+            "category": "waist",
+            "duration": 0,
+            "exerciseType": "weight",
+            "reps": 14,
+            "sets": 5,
+            "instructions": "Hold a kettlebell in one hand, lie on your back with legs straight up in the air, and reach the kettlebell towards your toes while keeping your core engaged.",
+            "benefits": "Benefits: Strengthens and tones the abdominal muscles while also improving flexibility and balance.",
+            "equipments": ["66763b398de6c1695dbe7f3b"],
+            "coverImage": "https://gymvisual.com/img/p/5/7/8/2/5782.gif",
+            "isDeleted": false,
+            "__v": 0
+        }, {
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/8/7/5/8/8758.gif"
+            },
+            "_id": "66763b9f8de6c1695dbeb0f7",
+            "name": "Banded crunch",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform banded crunches with resistance band wrapped around feet, lying on back with knees bent, crunching up towards ceiling for 4 sets.",
+            "benefits": "- Strengthen and tone the abdominal muscles by adding resistance to traditional crunches.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/8/7/5/8/8758.gif",
+            "isDeleted": false,
+            "__v": 0
+        }]
+    }, {
+        "id": "691739cb0b8e6a445f0c2899",
+        "name": "New Template",
+        "user": "667727c8a8a1fd82be732785",
+        "creationDate": "2025-11-11T04:12:35.495Z",
+        "exercises": [{
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/1/8/4/2/6/18426.gif"
+            },
+            "_id": "66763ba08de6c1695dbeb0ff",
+            "name": "Decline band press sit-up",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform decline band press sit-ups for 4 sets to target your abs and gain muscle, using a band for resistance at an intermediate level either at the gym or at home.",
+            "benefits": "- Strengthen and tone your abs while increasing muscle mass in your waist with the decline band press sit-up exercise.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/1/8/4/2/6/18426.gif",
+            "isDeleted": false,
+            "__v": 0
+        }, {
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/5/8/7/9/5879.gif"
+            },
+            "_id": "66763ba08de6c1695dbeb0fe",
+            "name": "Crunch",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform 4 sets of crunches using a band to target and strengthen your abs, aiming to gain muscle in your waist area at an intermediate level.",
+            "benefits": "- Strengthen and tone your abdominal muscles, specifically targeting the waist area, to help you achieve a more defined and sculpted midsection.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/5/8/7/9/5879.gif",
+            "isDeleted": false,
+            "__v": 0
+        }, {
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/2/2/6/0/2/22602.gif"
+            },
+            "_id": "66763ba08de6c1695dbeb100",
+            "name": "Partner plank band row",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform partner plank while using a resistance band to row, focusing on engaging your abs and waist, for 5 sets.",
+            "benefits": "Benefits: This exercise targets and strengthens the abs and waist muscles, improves core stability, and enhances overall muscle tone and definition.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/2/2/6/0/2/22602.gif",
+            "isDeleted": false,
+            "__v": 0
+        }]
+    }, {
+        "id": "69173e930b8e6a445f0c477f",
+        "name": "rr",
+        "user": "667727c8a8a1fd82be732785",
+        "creationDate": "2025-11-11T04:12:35.495Z",
+        "exercises": [{
+            "expectedDurationRange": {
+                "min": 52,
+                "max": 52
+            },
+            "targetMuscles": {
+                "primary": "66763b388de6c1695dbe7f0c",
+                "secondary": "66763b388de6c1695dbe7f0c"
+            },
+            "media": {
+                "type": "image",
+                "url": "https://gymvisual.com/img/p/8/7/5/8/8758.gif"
+            },
+            "_id": "66763b9f8de6c1695dbeb0f7",
+            "name": "Banded crunch",
+            "category": "waist",
+            "duration": 52,
+            "exerciseType": "duration",
+            "instructions": "Perform banded crunches with resistance band wrapped around feet, lying on back with knees bent, crunching up towards ceiling for 4 sets.",
+            "benefits": "- Strengthen and tone the abdominal muscles by adding resistance to traditional crunches.",
+            "equipments": ["66763b398de6c1695dbe7f39"],
+            "coverImage": "https://gymvisual.com/img/p/8/7/5/8/8758.gif",
+            "isDeleted": false,
+            "__v": 0
+        }]
+    }],
+    "meta": {
+        "total": 15,
+        "page": 0,
+        "perPage": 10
+    }
+}
